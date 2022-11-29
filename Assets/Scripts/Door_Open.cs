@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class Door_Open : MonoBehaviour
 {
-
     Animator open;
     
     // Start is called before the first frame update
@@ -18,10 +17,4 @@ public class Door_Open : MonoBehaviour
         bool G = open.GetBool("Station_Interacted");
         open.SetBool("Station_Interacted", !G); 
     }
-
-    // // Update is called once per frame
-    // void Update()
-    // {
-        
-    // }
 }
