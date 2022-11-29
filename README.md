@@ -9,7 +9,7 @@ I would like for this to be better, I may revisit this or recreate it as a whole
 You may enter through the door. Touch the terminal to do so. Once inside, ignore the plants. Do not look at the plants.
 There is a console in the middle, you may interact with it to create some sparkles, if you so wish.
 
-The plants are mine.
+The plants are mine. Do Not Touch Them.
 
 
 ![mine](https://user-images.githubusercontent.com/62120715/204604000-c5a9c717-4f49-4773-a71a-49aa1349118d.PNG)
